@@ -76,8 +76,6 @@ let time_75 = totalMileage / speed1;
 
 
 
-
-
 function calcGallonsNeeded(){
   let gallonsNeeded = totalMileage/efficiency1;
   console.log(`The trip will require ${gallonsNeeded} gallons at 55mph.`) 
